@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getLength",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_message",
+						"type": "string"
+					}
+				],
+				"name": "sendMessage",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"messenger.sol": "messenger"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"messenger.sol": {
+			"keccak256": "0x4f29bd5388602f8e121037bdf9d8e37a56a04cbb35076efe2a160f4cb6ad8a53",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://62bf2dfe66f853b38adbcea357a01ecf7956b5c80784c22bc3b35ab875150720",
+				"dweb:/ipfs/QmUFAbndLjG4cHwiLEVhwoTsSn5UFfN3s1ESUTMJzoqfoV"
+			]
+		}
+	},
+	"version": 1
+}
