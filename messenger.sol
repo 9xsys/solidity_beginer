@@ -11,4 +11,8 @@ contract messenger{
     function getLength() public view returns(uint){
         return bytes(message).length;
     }
+
+    function readMessage() public view returns(string memory){
+        return message;
+    }
 }

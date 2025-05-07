@@ -19,6 +19,19 @@
 				"type": "function"
 			},
 			{
+				"inputs": [],
+				"name": "readMessage",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
 				"inputs": [
 					{
 						"internalType": "string",
@@ -60,11 +73,11 @@
 	},
 	"sources": {
 		"messenger.sol": {
-			"keccak256": "0x4f29bd5388602f8e121037bdf9d8e37a56a04cbb35076efe2a160f4cb6ad8a53",
+			"keccak256": "0x7038bac26b4750218aec6673870c2a6c6c068820c5cf421fbb5eeb3a620a8913",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://62bf2dfe66f853b38adbcea357a01ecf7956b5c80784c22bc3b35ab875150720",
-				"dweb:/ipfs/QmUFAbndLjG4cHwiLEVhwoTsSn5UFfN3s1ESUTMJzoqfoV"
+				"bzz-raw://4674cb9906695b23f4482ddfa63e22208acbfcd2618ad7b8ad49ae85c2b9fb81",
+				"dweb:/ipfs/QmWMtczTm5iXSK1aNie8wB9B2PoJ4eLYb9jqMmJzqeuC6e"
 			]
 		}
 	},
