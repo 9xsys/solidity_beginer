@@ -10,5 +10,9 @@ contract mathLib{
         return a * b;
     }
 
+    function hashPair(uint a, uint b) public pure returns (bytes32){
+        return keccak256(abi.encodePacked(a,b));
+    }
+
     
 }

@@ -42,6 +42,30 @@
 						"type": "uint256"
 					}
 				],
+				"name": "hashPair",
+				"outputs": [
+					{
+						"internalType": "bytes32",
+						"name": "",
+						"type": "bytes32"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "b",
+						"type": "uint256"
+					}
+				],
 				"name": "mul",
 				"outputs": [
 					{
@@ -82,11 +106,11 @@
 	},
 	"sources": {
 		"mathlib.sol": {
-			"keccak256": "0xde8d16a58b6253ccabebedf4bddfae974c512eb971e6027c3de542dbf1049120",
+			"keccak256": "0x3f92d13415124c45d1c377325430d88016c5a2277f5522e0f8c916ee2ed349e2",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2c9d087cfe6a628047ab491cee33b19ba1cf49ace8cf080075e7c48464989844",
-				"dweb:/ipfs/Qmew5aGUHRqDPrywfWFjce1jMZdwW9xR7V4e3BYYYXRpvE"
+				"bzz-raw://01a84cedf7fdbc75d075bdc9b4de4d15db053f0132a2e46f2056180ec9de54b7",
+				"dweb:/ipfs/Qmd1YaCTFBmwShgccJxmzgZJfEzf4cWxVVQhXc4oja6SeE"
 			]
 		}
 	},
