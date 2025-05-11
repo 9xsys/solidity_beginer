@@ -351,11 +351,11 @@
 	},
 	"sources": {
 		"first_erc_20.sol": {
-			"keccak256": "0xc45bcb24b2a208cd87ce36826152f2e0fe1d17dcb7a5c575962b55bd2f37e9b6",
+			"keccak256": "0x4d507eaede18127d00086a8dafd2d29e2c5f08794a93646db4a113c4e48b38b6",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://8ed5f62b744c5825bd9fb63279ad0132c89e9c7b23d7b45be4b33e6d67a60fd4",
-				"dweb:/ipfs/Qmd522YaofGbw6RLD2a8eMiE4px8qRsGvFUchTn8KTgTyQ"
+				"bzz-raw://9d5bc6660f72d5bebc8563e9e08a38bda5fd4dc18e9de11707a38fe32e4937a6",
+				"dweb:/ipfs/QmcEumv2kpNaZ6ehpc9eUbf9wfLACyUYPHz7HKYWwUcNsU"
 			]
 		},
 		"openzeppelin/contracts/token/ERC20/ERC20.sol": {
